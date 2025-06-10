@@ -20,7 +20,7 @@
   
   <ul>
     <li>🔭 I'm currently working on <b>a Web APP for my university.</b></li>
-    <li>🌱 I'm currently learning <b>NodeJS, VueJS, ExpressJS, React.</b></li>
+    <li>🌱 I'm currently learning <b>NodeJS, VueJS, ExpressJS, Angular.</b></li>
     <li>⚡ Fun fact: <b>I wanted to be a programmer as a kid because of game developing. Happens that I don't like design-realted stuff...</b></li>
     <li>🎯 Career Goal: <b>to be specialized on Networking and Cibersecurity... Everything else is just for fun.</b></li>
     <li>🗣️ Languages: <b>Spanish, English and working on Japanese.</b></li>
