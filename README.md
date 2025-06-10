@@ -93,14 +93,12 @@
   </div>
 </div>
 
+<!-- Footer with a quote or signature -->
+<div align="center">  
+  <h4>Thanks for visiting my profile! Have a great day! 👋</h4>
+</div>
+
 <!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=zNeoj&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-
-<!-- Footer with a quote or signature -->
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-  
-  <h4>Thanks for visiting my profile! Have a great day! 👋</h4>
 </div>
