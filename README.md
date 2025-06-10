@@ -84,13 +84,14 @@
     <img src="https://github-readme-streak-stats.herokuapp.com?user=zNeoj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </div>
   
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zNeoj&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-  
   <!-- Languages Card -->
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNeoj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </div>
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zNeoj&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  
 </div>
 
 <!-- Footer with a quote or signature -->
