@@ -76,14 +76,14 @@
 <div>
   <h2>📊 GitHub Stats</h2>
   
-  <!-- GitHub Stats at the top (pyramid top) -->
+  <!-- GitHub Streak at the top (pyramid top) -->
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zNeoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=zNeoj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </div>
   
-  <!-- GitHub Streak and Top Languages side by side (pyramid base) -->
+  <!-- GitHub Stats and Top Languages side by side (pyramid base) -->
   <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=zNeoj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=zNeoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
     <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNeoj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </div>
   
