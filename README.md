@@ -83,8 +83,8 @@
   
   <!-- GitHub Streak and Top Languages side by side (pyramid base) -->
   <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img width="54%" src="https://github-readme-streak-stats.herokuapp.com?user=zNeoj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNeoj&layout=donut&theme=tokyonight&hide_border=true&card_width=320&card_height=250" alt="Top Languages" />
+    <img width="59%" src="https://github-readme-streak-stats.herokuapp.com?user=zNeoj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNeoj&layout=donut&theme=tokyonight&hide_border=true&card_width=320&card_height=250" alt="Top Languages" />
   </div>
   
   <!-- Activity Graph at the bottom -->
