@@ -28,7 +28,7 @@
   
   <p>
     <!-- Add a personal mission statement or short bio here -->
-    I love logic when it comes to algorithms, programming and data transfer, and that's why I'm so interested on networking. About my personal life, my main goal is to feel satisfied with my achievements even when I'm compared to highly succesful people.
+    I love logic when it comes to algorithms, programming and data transfer, and that's why I'm so interested on networking. About my personal life, my main goal is to feel satisfied with my achievements even when I'm compared to highly successful people.
   </p>
 </div>
 
