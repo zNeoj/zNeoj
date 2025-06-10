@@ -76,22 +76,21 @@
 <div>
   <h2>📊 GitHub Stats</h2>
   
+  <!-- GitHub Stats at the top (pyramid top) -->
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=zNeoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   </div>
   
-  <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=zNeoj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Streak and Top Languages side by side (pyramid base) -->
+  <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=zNeoj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNeoj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   </div>
   
-  <!-- Languages Card -->
+  <!-- Activity Graph at the bottom -->
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNeoj&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zNeoj&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
   </div>
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zNeoj&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-  
 </div>
 
 <!-- Footer with a quote or signature -->
