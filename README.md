@@ -16,7 +16,7 @@
 <div>
   <h2>👨‍💻 About Me</h2>
   
-  <img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+  <!--img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/-->
   
   <ul>
     <li>🔭 I'm currently working on <b>a Web APP for my university.</b></li>
