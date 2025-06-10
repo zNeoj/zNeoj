@@ -1,6 +1,6 @@
 <!-- Header with animated greeting -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there%2C+I'm+zNeoj;Welcome+to+my+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there%2C+I'm+zNeoj;_Welcome+to+my+Profile!" alt="Typing SVG" />
   
   <!-- A cool banner image or illustration that represents you >
   <img src="https://raw.githubusercontent.com/zNeoj/zNeoj/main/assets/github-header-image.png" width="100%" alt="Banner Image">
@@ -69,7 +69,6 @@
       </p>
       <a href="https://github.com/jjhn11/Aurora">View Project →</a>
     </div>
-    <!-- Add more project cards here -->
   </div>
 </div>
 
