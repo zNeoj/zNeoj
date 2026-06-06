@@ -1,104 +1,203 @@
-<!-- Header with animated greeting -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=500&height=70&lines=Hi+there%2C+I'm+zNeoj;_Welcome+to+my+Profile!" alt="Typing SVG" />
-  
-  <!-- A cool banner image or illustration that represents you >
-  <img src="https://raw.githubusercontent.com/zNeoj/zNeoj/main/assets/github-header-image.png" width="100%" alt="Banner Image">
-  
-  <p>
-    <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
-    <a href="https://yourdomain.com"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
-  </p-->
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Jhostin+Paco;Computer+Systems+Engineering+Student;Backend+Engineer+•+Linux+Enthusiast+•+IoT+Developer" alt="Typing SVG" />
+
+<br/>
+
+Backend systems • Linux infrastructure • Cloud deployments • IoT solutions
+
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-neoj--zeuq-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/neoj-zeuq)
+[![Email](https://img.shields.io/badge/Email-jhosttin6%40gmail.com-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jhosttin6@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-zNeoj-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/zNeoj)
+
 </div>
 
-<!-- About Me Section with a modern look -->
-<div>
-  <h2>👨‍💻 About Me</h2>
-  
-  <!--img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/-->
-  
-  <ul>
-    <li>🔭 I'm currently working on <b>a Web APP for my university.</b></li>
-    <li>🌱 I'm currently learning <b>NodeJS, VueJS, ExpressJS, Angular.</b></li>
-    <li>⚡ Fun fact: <b>I wanted to be a programmer as a kid because of game developing. Happens that I don't like design-related stuff...</b></li>
-    <li>🎯 Career Goal: <b>to be specialized on Networking and Cibersecurity... Everything else is just for fun.</b></li>
-    <li>🗣️ Languages: <b>Spanish, English and working on Japanese.</b></li>
-  </ul>
-  
-  <p>
-    <!-- Add a personal mission statement or short bio here -->
-    I love logic when it comes to algorithms, programming and data transfer, and that's why I'm so interested on networking. About my personal life, my main goal is to feel satisfied with my achievements even when I'm compared to highly successful people.
-  </p>
-</div>
+---
 
-<!-- Tech Stack with clean badges -->
-<div>
-  <h2>🛠️ My Tech Stack</h2>
-  
-  <h3>Programming languages</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  </p>
-  
-  <h3>Tools & Platforms</h3>
-  <p>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-    <!-- Add more tools and platforms -->
-  </p>
-</div>
+# About
 
-<!-- Featured Projects with cards -->
-<div>
-  <h2>🚀 Featured Projects</h2>
-  
-  <div style="display: flex; flex-wrap: wrap; gap: 20px;">
-    <!-- Project Card 1 -->
-    <div style="flex: 1; min-width: 250px; border-radius: 10px; border: 1px solid #30363d; padding: 20px;">
-      <h3>🔗 Aurora</h3>
-      <p>ITM's digital library as a school project.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js"/>
-        <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
-      </p>
-      <a href="https://github.com/jjhn11/Aurora">View Project →</a>
-    </div>
-  </div>
-</div>
+Computer Systems Engineering student focused on backend development, Linux infrastructure, cloud deployments, and IoT systems.
 
-<!-- GitHub Stats with themed visuals -->
-<div>
-  <h2>📊 GitHub Stats</h2>
-  
-  <!-- GitHub Stats at the top (pyramid top) -->
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zNeoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  </div>
-  
-  <!-- GitHub Streak and Top Languages side by side (pyramid base) -->
-  <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-    <img width="58%" src="https://github-readme-streak-stats.herokuapp.com?user=zNeoj&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNeoj&layout=donut&theme=tokyonight&hide_border=true&card_width=320&card_height=250" alt="Top Languages" />
-  </div>
-  
-  <!-- Activity Graph at the bottom -->
-  <div align="center">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zNeoj&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-  </div>
-</div>
+I enjoy building complete solutions: from server administration and containerized deployments to backend APIs, databases, authentication systems, and hardware integrations.
 
-<!-- Footer with a quote or signature -->
-<div align="center">  
-  <h4>Thanks for visiting my profile! Have a great day! 👋</h4>
-</div>
+Most of my projects start with a real-world problem and end with a deployed service running on Linux.
 
-<!-- Profile Views Counter -->
+### Currently Working On
+
+* POS system with CFDI 4.0 electronic invoicing
+* Cloud-native backend services using Docker
+* RFID-based access control platforms
+* AWS, Go Fiber and .NET backend development
+
+### Interests
+
+* Backend Engineering
+* Linux & Self-Hosted Infrastructure
+* Cloud & DevOps
+* IoT Systems
+* Distributed Systems
+
+### Languages
+
+* English (C1)
+* Spanish (Native)
+
+---
+
+# Featured Project
+
+## Aurora — Digital Library Platform
+
+**Active Contributor**
+
+Student digital library platform developed for Instituto Tecnológico de Mexicali.
+
+Contributed throughout the platform lifecycle, participating in development, deployment, authentication workflows, database integration, and infrastructure management.
+
+### Highlights
+
+* Developed backend functionality using Node.js and Express.js
+* Integrated MySQL databases through Sequelize ORM
+* Implemented Google OAuth authentication workflows
+* Participated in Docker-based deployment and maintenance
+* Contributed frontend features using Vue.js and Bootstrap
+
+### Stack
+
+![](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square\&logo=vue.js\&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square\&logo=bootstrap\&logoColor=white)
+![](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![](https://img.shields.io/badge/Express.js-000000?style=flat-square\&logo=express\&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square\&logo=sequelize\&logoColor=white)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+
+---
+
+# Projects
+
+## Klavis — School Access Control Platform
+
+*Feb 2026 – May 2026*
+
+RFID UHF-based access control platform designed to manage and monitor campus access events.
+
+### Impact
+
+* Led a team of four engineers throughout the project lifecycle
+* Integrated RFID UHF hardware with the software platform
+* Restored and troubleshooted unresponsive access-control hardware
+* Designed cloud deployment architecture on DigitalOcean
+* Implemented access tracking and administrative tools
+
+### Stack
+
+React • Node.js • Express.js • Supabase • Docker • DigitalOcean • Figma
+
+---
+
+## Presta — Inventory & Order Management System
+
+*Jun 2025 – May 2026*
+
+Inventory and order management platform developed for Instituto Tecnológico de Mexicali.
+
+### Impact
+
+* Centralized inventory and order tracking
+* Implemented Google and Microsoft authentication
+* Built REST APIs and database integrations
+* Containerized deployment using Docker
+* Managed production deployment on DigitalOcean
+
+### Stack
+
+Vue.js • Node.js • Express.js • MySQL • Sequelize • Docker • DigitalOcean
+
+---
+
+## POS System with Electronic Invoicing
+
+*Dec 2025 – Present*
+
+Private commercial project.
+
+Point-of-sale platform with CFDI 4.0 electronic invoicing designed for Mexican businesses.
+
+### Focus Areas
+
+* Electronic invoicing architecture
+* Cloud-native backend development
+* Dockerized deployments
+* AWS infrastructure
+* Go Fiber and .NET services
+
+### Stack
+
+React • Supabase • Docker • AWS • Go Fiber • .NET
+
+---
+
+# Tech Stack
+
+## Backend
+
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+
+## Databases
+
+![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge\&logo=supabase\&logoColor=white)
+![](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge\&logo=sequelize\&logoColor=white)
+
+## Infrastructure
+
+![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge\&logo=digitalocean\&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
+## Frontend
+
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge\&logo=vue.js\&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+
+---
+
+# Currently Learning
+
+* Go (Fiber)
+* .NET
+* AWS
+* CI/CD Pipelines
+* Cloud Architecture
+
+---
+
+# Open To
+
+* Backend Engineering Internships
+* Software Development Internships
+* IoT Projects
+* Open Source Collaboration
+* Cloud & Infrastructure Projects
+
+---
+
+# GitHub Stats
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zNeoj&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=zNeoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNeoj&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
