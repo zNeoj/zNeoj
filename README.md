@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=70&lines=Jhostin+Paco;Computer+Systems+Engineering+Student;Backend+Engineer+•+Linux+Enthusiast+•+IoT+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=90&lines=Jhostin+Paco;Backend+Engineer;Linux+Enthusiast+%26+IoT+Developer" alt="Typing SVG" />
 
 <br/>
 
@@ -187,17 +187,3 @@ React • Supabase • Docker • AWS • Go Fiber • .NET
 * IoT Projects
 * Open Source Collaboration
 * Cloud & Infrastructure Projects
-
----
-
-# GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zNeoj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zNeoj&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
